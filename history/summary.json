@@ -22,17 +22,19 @@
     "url": "https://www.octocode.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.octocode.me.ico",
     "slug": "octocode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 81,
-    "timeWeek": 210,
-    "timeMonth": 184,
+    "timeDay": 110,
+    "timeWeek": 202,
+    "timeMonth": 183,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   }
 ]
