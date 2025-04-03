@@ -4,10 +4,10 @@
     "url": "https://www.appassion.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.appassion.io.ico",
     "slug": "appassion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2789,
@@ -15,17 +15,19 @@
     "timeWeek": 3153,
     "timeMonth": 2628,
     "timeYear": 2789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 1
+    }
   },
   {
     "name": "Octocode",
     "url": "https://www.octocode.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.octocode.me.ico",
     "slug": "octocode",
-    "status": "up",
+    "status": "down",
     "uptime": "95.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.17%",
+    "uptimeWeek": "23.13%",
     "uptimeMonth": "73.97%",
     "uptimeYear": "95.03%",
     "time": 187,
@@ -34,6 +36,7 @@
     "timeMonth": 162,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-04-01": 710,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
