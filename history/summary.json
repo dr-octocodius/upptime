@@ -4,7 +4,7 @@
     "url": "https://www.appassion.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.appassion.io.ico",
     "slug": "appassion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3212,
     "timeYear": 2842,
     "dailyMinutesDown": {
+      "2025-05-14": 0,
       "2025-04-03": 42
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.octocode.me.ico",
     "slug": "octocode",
     "status": "up",
-    "uptime": "95.24%",
+    "uptime": "95.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.24%",
+    "uptimeYear": "95.25%",
     "time": 313,
     "timeDay": 1014,
     "timeWeek": 878,
