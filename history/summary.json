@@ -28,7 +28,7 @@
     "url": "https://www.octocode.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.octocode.me.ico",
     "slug": "octocode",
-    "status": "up",
+    "status": "down",
     "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 790,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2025-08-03": 0,
       "2025-07-24": 359,
       "2025-06-02": 300,
       "2025-04-09": 653,
