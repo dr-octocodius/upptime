@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 2048,
-    "timeDay": 668,
-    "timeWeek": 743,
-    "timeMonth": 832,
-    "timeYear": 1798,
+    "time": 2040,
+    "timeDay": 716,
+    "timeWeek": 728,
+    "timeMonth": 825,
+    "timeYear": 1795,
     "dailyMinutesDown": {
       "2026-01-10": 20,
       "2026-01-07": 38,
@@ -35,18 +35,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.octocode.me.ico",
     "slug": "octocode",
     "status": "down",
-    "uptime": "53.07%",
+    "uptime": "52.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "34.17%",
-    "time": 547,
+    "time": 548,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 815,
+    "timeYear": 820,
     "dailyMinutesDown": {
-      "2026-03-27": 113,
+      "2026-03-28": 105,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -291,8 +292,7 @@
       "2025-04-01": 710,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   }
 ]
